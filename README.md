@@ -17,7 +17,16 @@ Adoro trabalhar em projetos desafiadores e aprender coisas novas. Estou sempre e
 Contato
 Se você tiver alguma dúvida ou quiser entrar em contato comigo, fique à vontade para me enviar uma mensagem através do meu e-mail ou me encontrar nas redes sociais abaixo:
 
-LinkedIn
-Twitter
-Instagram
-Será um prazer conversar com você!
+<div align="center">
+  <br/>
+  <br/>
+  <br/>
+    <div>
+      <h1>Linkedin</h1>
+      <sub><a href="https://www.linkedin.com/in/erik-monteiro-a303ab1a6/">clique aqui</sub></a>
+      <h1>Github</h1>
+      <sub><a href="https://github.com/erik-monteiro">clique aqui</sub></a>
+    </div>
+    <br/>
+    💖
+</div>
