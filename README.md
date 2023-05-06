@@ -1,16 +1,23 @@
-### Hi there 👋
+Olá, meu nome é erik e sou um desenvolvedor web apaixonado por tecnologia. Atualmente, possuo conhecimentos sólidos em algumas tecnologias web como:
 
-<!--
-**erik-monteiro/erik-monteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HTML
+CSS
+PHP
+JavaScript
+SQL
+Além disso, tenho conhecimento em banco de dados, especialmente no MySQL e PostgreSQL. Estou em constante aprendizado e atualmente estou estudando NodeJS e MongoDB.
 
-Here are some ideas to get you started:
+Também tenho experiência com alguns frameworks, como:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Laravel
+Bootstrap
+JQuery
+Adoro trabalhar em projetos desafiadores e aprender coisas novas. Estou sempre em busca de novas oportunidades e parcerias.
+
+Contato
+Se você tiver alguma dúvida ou quiser entrar em contato comigo, fique à vontade para me enviar uma mensagem através do meu e-mail ou me encontrar nas redes sociais abaixo:
+
+LinkedIn
+Twitter
+Instagram
+Será um prazer conversar com você!
