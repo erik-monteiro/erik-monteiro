@@ -17,6 +17,7 @@
 - Bootstrap
 - JQuery
 - VueJS
+- ReactJS
 
 ### Linguages que mais utilizo
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erik-monteiro&layout=compact&theme=midnight-purple)](https://github.com/erik-monteiro)
