@@ -10,7 +10,7 @@
 - PHP
 - JavaScript
 - Java
-- C++
+- C
 
 ### Frameworks
 - Laravel
