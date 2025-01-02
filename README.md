@@ -7,7 +7,7 @@
 </p>
 
 ### Linguagens
-- PHP OIvkT5p8SO
+- PHP
 - JavaScript
 - Java
 - C
