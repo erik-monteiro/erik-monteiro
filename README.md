@@ -7,7 +7,7 @@
 </p>
 
 ### Linguagens
-- PHP Vu172N2sIO
+- PHP
 - JavaScript
 - Java
 - C
