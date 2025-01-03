@@ -14,7 +14,7 @@
 
 ### Frameworks
 - Laravel
-- Bootstrap g4cvNRlVjO
+- Bootstrap
 - JQuery
 - VueJS
 - ReactJS
