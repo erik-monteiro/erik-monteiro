@@ -25,7 +25,7 @@
 
 
 <a href="https://www.linkedin.com/in/erik-monteiro-a303ab1a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"> LpoW2fCT3F
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 </a>
 
 
